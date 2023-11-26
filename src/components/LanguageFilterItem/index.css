@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.language-name {
+  list-style-type: none;
+  cursor: pointer;
+}
+
+.language-text {
+  font-size: 20px;
+  margin: 20px;
+  border: none;
+  outline: none;
+  background-color: #fff;
+  padding: 10px;
+}
+
+.active-tab {
+  border: 2px solid #0284c7;
+  color: #0284c7;
+  border-radius: 10px;
+}
